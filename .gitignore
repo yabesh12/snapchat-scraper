@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+venv*/
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Flask generated files
+instance/
+
+# Selenium WebDriver logs
+geckodriver.log
+chromedriver.log
+
+# Local development settings
+.env
+
+# Compiled Python files
+*.pyc
+
+# Compiled C extensions
+*.pyd
+
+# Compressed archives
+*.zip
+*.rar
+
+# Package files
+*.whl
+*.tar.gz
+
+# Logs
+*.log
+
+# Environment variables file
+.env
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
